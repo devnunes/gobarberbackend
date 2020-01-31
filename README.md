@@ -40,14 +40,17 @@ Working in progress
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
+- [PostgreSQL](https://www.postgresql.org/) - SQL Database for Structed data
+- [Sequelize](https://sequelize.org/) - ORM for SQL Databases
+- [MongoDB](https://www.mongodb.com/) - NoSQL Database for Notifications (Non-Structed data)
+- [Mongoose](https://www.mongodb.com/) - Object modeling for Node.js
 - [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Sentry](https://sentry.io/welcome/) - Aplication Monitoring
-- [Redis](https://redis.io/) - 
+- [Redis](https://redis.io/) - Services Stacker
 - [JWToken](https://jwt.io/) - JSON Web Token
 - [Nodemailer](https://nodemailer.com/about/) - Node module to sent emails
-- [Sequelize](https://sequelize.org/) - ORM for SQL Databases
+
 
 ---
 
